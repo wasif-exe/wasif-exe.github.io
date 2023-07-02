@@ -2,17 +2,16 @@
 <h3 align="center">A young curious developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-exe&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-exe" /> </p>
 
-- 🔭 I’m currently working on **Pixel Perils**
+-  Working on 2D game **Pixel Perils**
 
-- 🌱 I’m currently learning **assembly**
+-  Learning **assembly**
 
-- 🤝 I’m looking for help with **animations and textures**
+-  Looking for help with **animations and textures**
 
-- 💬 Ask me about **Python, Java, C++, C#, Html, CSS , PHP**
+-  Good at **Python, Java, C++, C#, Html, CSS , PHP**
 
-- 📫 Mail me at **diablo@smime.ninja**
+-  Mail me at **diablo@smime.ninja**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasif-exe&show_icons=true&locale=en&layout=compact" alt="wasif-exe" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasif-exe&show_icons=true&locale=en" alt="wasif-exe" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasif-exe&label=Profile%20views&color=0e75b6&style=flat" alt="wasif-exe" /> </p>
