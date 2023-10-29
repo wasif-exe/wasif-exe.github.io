@@ -5,8 +5,6 @@
 
 -  Learning **idk honestly**
 
--  Looking for help for **scratching my back**
-
 -  Know **Python, Java, C++, C#, Html, CSS , PHP**
 
 -  Mail **diablo@smime.ninja**
