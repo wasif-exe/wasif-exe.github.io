@@ -5,7 +5,7 @@
 
 -  Know **Python, Java, C++, C#, Html, CSS , PHP**
 
--  Mail **diablo@smime.ninja**
+-  Mail **DiabloSmime@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
