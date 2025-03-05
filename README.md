@@ -12,8 +12,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 I love coding & problem-solving.  
-- 🔥 Know **Python, Java, C++, C#, HTML, CSS, PHP**.  
+- 💻 I'm passionate about turning reality into code. 
 - 📧 Reach me at **[DiabloSmime@proton.me](mailto:DiabloSmime@proton.me)**.  
 
 ---
