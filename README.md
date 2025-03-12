@@ -34,7 +34,7 @@
 
 ### 🛠 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,php,js,git,linux,django,react,unity,unreal" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,html,css,php,js,git,linux,django,react,kotlin,sql" />
 </p>
 
 ---
